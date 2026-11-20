@@ -12,8 +12,8 @@ print("Length of the name is " , len(full_name))
 reverse= " "
 for name in full_name:
     reverse = name + reverse
-    
 print("With Loop :" ,reverse)
+
 # with slicing 
 print("Reverse of string :" , full_name[::-1])
 
